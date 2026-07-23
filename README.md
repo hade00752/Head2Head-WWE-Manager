@@ -16,8 +16,8 @@ Downloads for Head 2 Head Wrestling Manager, an unofficial WWE fan-made GM sim. 
   2. Extract it anywhere.
 
   **Windows:**
-  - Double-click `H2H Wrestling Manager.exe`.
-  - If Windows SmartScreen appears, click "More info", then "Run anyway". This is normal for an unsigned indie build.
+  - Run as administrator: `H2H Wrestling Manager.exe`.
+  - If Windows SmartScreen appears, click "More info", then "Run anyway". This is normal for an unsigned indie build. Please allow up to a minute to load up
   - The game opens in its own window.
 
   **Linux:**
